@@ -16,6 +16,6 @@ const database = firebase.database().ref();
 const servers = {'iceServers': [{'urls': 'turn:numb.viagenie.ca','credential': 'Zachary Skiles','username': 'skilesz@purdue.edu'}]};
 
 export {
-    databse,
+    database,
     servers
 }
