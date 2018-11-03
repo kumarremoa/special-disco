@@ -65,3 +65,11 @@ body {
   .col-md-6 {                    
     margin-bottom: 1em;          
   }
+
+  .name {
+    font-family: 'Audiowide', cursive;
+    font-size: 60px;
+    border-left: 1px solid black;
+    border-right: 1px solid black;
+    padding: 10px;
+  }
