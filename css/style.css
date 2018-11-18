@@ -14,13 +14,13 @@ button {
   margin: 10px 0px 0px 10px !important;
   width: 40%;
   align-content: center;
-  
 }
 
 .name {
   height: 10%;
   font-family: 'Audiowide', cursive;
   font-size: 400%;
+  font-stretch: 10%;
   border-left: 1px solid white;
   border-right: 1px solid white;
   padding: 10px;
