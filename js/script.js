@@ -8,13 +8,13 @@
 //   messagingSenderId: "748074977719"
 // };
 var config = {
-    apiKey: "AIzaSyCQRpQtXbKYoac8y6ssgPno11-jdR71WQY",
-    authDomain: "special-disco.firebaseapp.com",
-    databaseURL: "https://special-disco.firebaseio.com",
-    projectId: "special-disco",
-    storageBucket: "special-disco.appspot.com",
-    messagingSenderId: "87258023656"
-};
+    apiKey: "AIzaSyBlG8J9GfC87k_0u3acsNcTDRsb5n_Wt0Y",
+    authDomain: "special-disco1.firebaseapp.com",
+    databaseURL: "https://special-disco1.firebaseio.com",
+    projectId: "special-disco1",
+    storageBucket: "special-disco1.appspot.com",
+    messagingSenderId: "62069127077"
+  };
 firebase.initializeApp(config);
 
 var database = firebase.database().ref();
